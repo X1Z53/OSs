@@ -1,2 +1,2 @@
-#I'm - X1Z53, or just X. I just a Russian student, who wants to merge all distibutions into one repository.
-##This is the OSs List. I wanna create one List with all OSs from [list by FabioLolix](https://github.com/FabioLolix/LinuxTimeline) and from Microsoft and Apple
+# I'm - X1Z53, or just X. I just a Russian student, who wants to merge all distibutions into one repository.
+## This is the OSs List. I wanna create one List with all OSs from [list by FabioLolix](https://github.com/FabioLolix/LinuxTimeline) and from Microsoft and Apple
