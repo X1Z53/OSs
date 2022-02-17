@@ -1,0 +1,2 @@
+*Mount 'MS-DOS 1.img'*
+{Boot}

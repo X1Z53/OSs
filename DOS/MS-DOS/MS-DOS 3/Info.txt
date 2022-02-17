@@ -1,0 +1,9 @@
+Distro	Microsoft Disk Operating System 3
+Version	3.31
+
+Memory	4 MB
+Storage	4 MB
+
+Weight	686,554 B
+		670.46  KB
+		0.65    MB

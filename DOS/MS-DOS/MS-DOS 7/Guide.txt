@@ -1,0 +1,23 @@
+*Mount 'MS-DOS 7.iso'*
+{Boot}
+[Enter] x16
+[Y]
+[Enter] x3
+[N]
+[Enter] x5
+[N]
+[Enter] x20
+[N]
+[Enter] x3
+[Right]
+[Enter] x2
+[Down]
+[Space]
+[Down] x3
+[Space]
+[Down]
+[Space]
+[C] x2
+[Enter]
+*Unmount CD*
+[Y]

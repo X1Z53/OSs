@@ -1,0 +1,9 @@
+*Mount 'MS-DOS 5 (1).img'*
+{Boot}
+[Enter] x4
+*Mount 'MS-DOS 5 (2).img'*
+{enter]
+*Mount 'MS-DOS 5 (3).img'*
+[Enter]
+*Unmount Floppy*
+[Enter]

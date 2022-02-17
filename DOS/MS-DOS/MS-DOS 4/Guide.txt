@@ -1,0 +1,14 @@
+*Mount 'MS-DOS 4 (1).img'*
+{Boot}
+[Enter] x2
+[Down]
+[Enter] x4
+[Up]
+[Enter] x7
+[Ctrl + Alt + Del]
+*Mount 'MS-DOS 4 (2).img'*
+[Enter]
+*Mount 'MS-DOS 4 (3).img'*
+[Enter]
+*Unmount Floppy*
+[Ctrl + Alt + Del]

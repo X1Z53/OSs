@@ -1,0 +1,17 @@
+*Mount 'MS-DOS 6 (1).img'*
+{Boot}
+[Enter] x5
+*Mount 'MS-DOS 6 (2).img'*
+[Enter]
+*Mount 'MS-DOS 6 (3).img'*
+[Enter]
+*Unmount Floppy*
+[Enter] x2
+*Mount 'MS-DOS 6 (4).img'*
+a:
+setup c:dos
+[A]
+[F5]
+[Y] x2
+*Unmount Floppy*
+[Ctrl + Alt + Del]

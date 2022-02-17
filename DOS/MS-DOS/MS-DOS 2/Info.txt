@@ -1,0 +1,9 @@
+Distro	Microsoft Disk Operating System 2
+Version	2.11
+
+Memory	4 MB
+Storage	4 MB
+
+Weight	274,999 B
+		268.55  KB
+		0.26    MB

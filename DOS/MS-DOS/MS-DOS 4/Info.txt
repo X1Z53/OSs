@@ -1,0 +1,9 @@
+Distro	Microsoft Disk Operating System 4
+Version	4.01
+
+Memory	4 MB
+Storage	4 MB
+
+Weight	1,349,536 B
+		1,317.91  KB
+		1.29      MB

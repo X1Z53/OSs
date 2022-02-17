@@ -1,0 +1,12 @@
+*Mount 'MS-DOS 8.iso'*
+{Boot}
+[1]
+[Enter] x3
+[Esc]
+[Ctrl + Alt + Del]
+[2]
+[Enter]
+[3]
+[1]
+*Unmount CD*
+[Ctrl + Alt + Del]

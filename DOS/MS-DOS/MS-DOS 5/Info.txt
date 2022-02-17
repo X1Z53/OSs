@@ -1,0 +1,9 @@
+Distro	Microsoft Disk Operating System 5
+Version	5.0
+
+Memory	4 MB
+Storage	4 MB
+
+Weight	2,131,037 B
+		2,081.09  KB
+		2.03      MB

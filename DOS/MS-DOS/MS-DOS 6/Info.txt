@@ -1,0 +1,10 @@
+Distro	Microsoft Disk Operating System 6
+Version	6.22
+
+Memory	4 MB
+Storage	8 MB
+
+Weight	7,267,864 B
+		7,097.52  KB
+		6.93      MB
+		0.01      GB

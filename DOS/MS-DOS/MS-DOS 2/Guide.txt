@@ -1,0 +1,11 @@
+*Mount 'MS-DOS 2.img'*
+{Boot}
+[Enter] x2
+fdisk
+[Enter] x5
+format c:
+[Enter]
+sys c:
+copy a:*.* c:
+*Unmount Floppy*
+[Ctrl + Alt + Del]
