@@ -1,0 +1,2 @@
+[KEY] - Just press KEY
+[KEY1 + KEY2] - Combination of keys
