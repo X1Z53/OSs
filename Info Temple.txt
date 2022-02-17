@@ -1,33 +1,36 @@
-Distro	{Full name}
-Version	{Full version}
+Distro  {Full name}
+Version {Full version}
 
 {for Unix-like}
-Based on	{Base-Distro / Free}
-Kernel	{Kernel}
-Graphics	{DE} ({WM})
+Based   {Base-Distro / Free}
+Kernel  {Kernel}
+CLI/GUI {DE} ({WM})
 
-Memory	{RAM size}
-Storage	{Drive size}
+Memory  {RAM size}
+Storage {Drive size}
 
-Weight	{B}
-		{KB}
-		{MB} [if ≥0.01 MB]
-		{GB} [if ≥0.01 GB]
-		{TB} [if ≥0.01 TB]
-		{PB} [if ≥0.01 PB]
+Weight  {B}
+        {KB}
+        {MB} [if >=0.01 MB]
+        {GB} [if >=0.01 GB]
+        {TB} [if >=0.01 TB]
+        {PB} [if >=0.01 PB]
 
 
 1. If Distro have some editions, use '|' to separate it
 2. Use [Space]'s (not [Tab]'s) for alignment (using [Tab]'s will destroying style in some fonts or in console). Use [Tab]'s only between {Option} and {Value}
 
-Distro	
-Version	
+Distro  
+Version 
 
-Based on	
-Kernel	
-Graphics	 ()
+Based   
+Kernel  
+CLI/GUI ()
 
-Memory	
-Storage	
+Memory  
+Storage 
 
-Weight	
+Weight  
+        
+        
+        

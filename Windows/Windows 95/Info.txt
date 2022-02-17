@@ -1,0 +1,10 @@
+Distro  Windows 95
+Version 4.00.1111 / 4.00.950C (OSR 2.5)
+
+Memory  8    MB
+Storage 0.18 GB
+
+Weight  99,183,388 B
+        96,858.78  KB
+        94.59      MB
+        0.09       GB

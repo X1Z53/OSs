@@ -1,0 +1,16 @@
+{Boot MS-DOS 6}
+*Mount Floppy 'Windows 2 (1).img'*
+a:
+setup
+[Enter] x4
+[C]
+[Enter]
+*Mount Floppy 'Windows 2 (2).img'*
+[Enter]
+*Mount Floppy 'Windows 2 (3).img'*
+[Enter]
+[Y]
+[C] x2
+setver win200.bin 3.40
+*Unmount Floppy*
+[Ctrl + Alt + Del]

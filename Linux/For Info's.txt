@@ -1,0 +1,32 @@
+Run all commands as root
+
+Use neofetch
+apt update && apt upgrade -y && apt install neofetch -y
+OR
+yum install dnf -y
+dnf install epel-release -y
+dnf install neofetch -y
+
+OR
+wget https://github.com/dylanaraps/neofetch/archive/refs/tags/7.1.0.tar.gz
+tar -xf 7.1.0.tar.gz
+./neofetch-7.1.0/neofetch
+
+OR
+
+View system files:
+
+Name, version and base:
+cat /etc/*release
+
+Kernel:
+uname -r
+
+GUI (if exist):
+DE
+ls /usr/share/xsessions
+WM (before - install 'wmctrl')
+wmctrl -m
+
+Size:
+du -a /

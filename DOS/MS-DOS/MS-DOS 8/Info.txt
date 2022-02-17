@@ -1,9 +1,9 @@
-Distro	Microsoft Disk Operating System 8
-Version	4.90.3000 (Windows Millennium)
+Distro  Microsoft Disk Operating System 8
+Version 4.90.3000 (Windows Millennium)
 
-Memory	4 MB
-Storage	5 MB
+Memory  4 MB
+Storage 5 MB
 
-Weight	4,571,559 B
-		4,464.41  KB
-		4.36      MB
+Weight  4,571,559 B
+        4,464.41  KB
+        4.36      MB

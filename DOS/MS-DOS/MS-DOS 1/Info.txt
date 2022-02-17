@@ -1,9 +1,9 @@
-Distro	Microsoft Disk Operation System 1
-Version	1.25
+Distro  Microsoft Disk Operation System 1
+Version 1.25
 
-Memoty	4 MB
-Storage	From Image
+Memoty  4 MB
+Storage From Image
 
-Weight	156,285 B
-		152.62  KB
-		0.15    MB
+Weight  156,285 B
+        152.62  KB
+        0.15    MB

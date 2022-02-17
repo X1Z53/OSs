@@ -1,0 +1,14 @@
+Distro  Point Linux 
+Version 3.2 (agni)
+
+Based   Debian
+Kernel  3.16.0-4-amd64
+CLI/GUI MATE 1.8.1 (Metacity (Marco)) | XFCE 4.10 (XFWM4)
+
+Memory  512 MB
+Storage 5   GB
+
+Weight  3,443,728,384 B  | 3,157,872,640 B
+        3,363,016     KB | 3,083,860     KB
+        3,284.20      MB | 3,011.58      MB
+        3.21          GB | 2.94          GB

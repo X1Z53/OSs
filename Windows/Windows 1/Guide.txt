@@ -1,0 +1,17 @@
+{Boot MS-DOS 6}
+*Mount Floppy 'Windows 1 (1).img'*
+a:setup
+[C]
+[Enter]
+[C]
+[Enter]
+7
+3
+*Mount Floppy 'Windows 1 (2).img'*
+[C]
+[N]
+*Mount Floppy 'Windows 1 (3).img'*
+[C]
+setver win100.bin 3.34
+*Unmount Floppy*
+[Ctrl + Alt + Del]

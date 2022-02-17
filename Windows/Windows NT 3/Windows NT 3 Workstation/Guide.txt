@@ -1,0 +1,36 @@
+*Mount 'Windows NT 3 Workstation (1).img'*
+*Mount 'Windows NT 3 Workstation (1).iso'*
+{Boot}
+*Mount 'Windows NT 3 Workstation (2).img'*
+[Enter] x2
+[C]
+[Enter]
+*Mount 'Windows NT 3 Workstation (3).img'*
+[Enter] x3
+[C]
+[Enter] x5
+*Unmount Floppy*
+[Enter]
+*Type username*
+[Enter] x2
+*Type computer name*
+[Enter] x3
+[Space]
+[Tab]
+[Space]
+[Tab]
+[Space]
+[Tab]
+[Space]
+[Enter] x2
+[Tab]
+[Enter]
+[Tab] x4
+[Enter]
+[Tab]
+[Enter] x5
+[Tab]
+[Enter]
+*Unmount CD*
+[Enter]
+*Login: Administrator; no password*

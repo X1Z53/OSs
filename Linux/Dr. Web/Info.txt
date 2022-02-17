@@ -1,0 +1,14 @@
+Distro  Dr.Web LiveDisk
+Version 9.0
+
+Based   Ubuntu 16.04.4 LTS
+Kernel  4.13.0-43-generic
+CLI/GUI MATE 1.12.2 (Metacity (Marco)
+
+Memory  512 MB
+Storage From Image
+
+Weight  4,917,256,192 B
+        4,802,008     KB
+        4,689.46      MB
+        4.58          GB

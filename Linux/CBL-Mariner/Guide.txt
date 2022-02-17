@@ -1,0 +1,15 @@
+*Mount 'CBL-Mariner.iso'*
+{Boot}
+[Down]
+[Enter] x6
+[Right]
+[Enter]
+[Backspace] x35
+*Type computer name*
+[Enter]
+*Type username*
+[Enter]
+*Type password*
+[Enter]
+*Type password*
+[Enter] x4

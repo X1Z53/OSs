@@ -1,0 +1,10 @@
+Distro  Windows 3 | Windows for Workstation 3
+Version 3.11
+
+Memory  4  MB
+Storage 21 MB | 26 MB
+
+Weight  15,610,081 B  | 20,348,617 B
+        15,244.22  KB | 19,871.70  KB
+        14.89      MB | 19.41      MB
+        0.02       GB | 0.02       GB

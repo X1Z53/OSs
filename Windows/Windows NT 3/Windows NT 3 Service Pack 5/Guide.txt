@@ -1,0 +1,17 @@
+{Boot Windows NT 3}
+*Mount 'Windws NT 3 SP 5.iso'*
+*Open 'Main'*
+*Open 'Command Prompt'*
+cd \
+md sp5
+xcopy d: sp5 /e
+sp5\update
+[Enter]
+*Unmount CD*
+[Enter]
+*Log in*
+*Open 'Main'*
+*Open 'Command Prompt'*
+rd c:\sp5 /s
+y
+*Reboot*

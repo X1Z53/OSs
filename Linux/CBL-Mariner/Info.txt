@@ -1,0 +1,14 @@
+Distro  CBL-Mariner
+Version 1.0.20220127
+
+Based   Free
+Kernel  5.10.93.1-1.cm1
+CLI/GUI CLI
+
+Memory  1 GB
+Storage 2 GB
+
+Weight  1,596,592,128 B
+        1,559,172     KB
+        1,522.63      MB
+        1.49          GB

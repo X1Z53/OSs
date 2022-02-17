@@ -1,0 +1,26 @@
+*Mount 'Point Linux (MATE | XFCE).iso'*
+{Boot}
+[Enter]
+*Open 'Install Point Linux'*
+[Tab]
+[E]
+[Down] x11
+[Tab] x3
+[Enter] x3
+*Type username*
+[Tab] x2
+*Type password*
+[Tab]
+*Type password*
+[Tab] x2
+*Type computer name*
+[Enter] x2
+[Tab]
+[Enter]
+*Right-click on '/dev/sda2'*
+*Click on 'Assign to /'
+[Tab] x5
+[Enter] x3
+[Tab]
+*Unmount CD*
+[Enter]

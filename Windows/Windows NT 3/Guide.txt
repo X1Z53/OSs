@@ -1,0 +1,2 @@
+*Install Windows NT 3 (Server/Workstation)*
+*Update System to Service Pack 5*

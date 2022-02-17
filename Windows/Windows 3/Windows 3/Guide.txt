@@ -1,0 +1,26 @@
+{Boot MS-DOS 6}
+*Mount 'Windows 3 (1).img'*
+a:setup
+[Enter]
+[C]
+[Enter] x2
+*Mount 'Windows 3 (2).img'*
+[Enter]
+*Mount 'Windows 3 (3).img'*
+[Enter]
+*Type username*
+[Enter] x3
+[Space]
+[Down]
+[Space]
+[Down]
+[Space]
+[Enter] x2
+*Mount 'Windows 3 (4).img'*
+[Enter]
+*Mount 'Windows 3 (5).img'*
+[Enter] x3
+[Down]
+[Enter]
+*Unmount Floppy*
+[Enter]

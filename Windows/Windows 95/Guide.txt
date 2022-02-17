@@ -1,0 +1,40 @@
+*Mount 'Windows 95.img'*
+*Mount 'Windows 95.iso'*
+{Boot}
+fdisk
+[Enter] x3
+[Ctrl + Alt + Del]
+format c:
+y
+[Enter]
+r:setup
+[Enter] x2
+[Tab]
+[Enter] x3
+[Up]
+[Enter]
+*Type 31795 0006627 29381*
+[Enter]
+*Type username*
+[Enter] x3
+[Down]
+[Space] x2
+[Down]
+[Space] x2
+[Down]
+[Space] x2
+[Down] x2
+[Space] x2
+[Enter] x2
+*Type computer name*
+[Enter] x2
+[Down]
+[Enter] x2
+*Unmount Floppy*
+[Enter]
+*Type username*
+[Enter] x3
+[Tab]
+[Enter]
+*Unmount CD*
+[Enter]

@@ -1,0 +1,10 @@
+Distro  Windows 2.11
+Version 2.11
+
+Memory  4  MB
+Storage 10 MB
+
+Weight  8,877,954 B
+        8,669.877 KB
+        8.467     MB
+        0.008     GB

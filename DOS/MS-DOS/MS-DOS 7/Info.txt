@@ -1,10 +1,10 @@
-Distro	Microsoft Disk Operation System 7
-Version	7.10.1999
+Distro  Microsoft Disk Operation System 7
+Version 7.10.1999
 
-Memory	4  MB
-Storage	21 MB
+Memory  4  MB
+Storage 21 MB
 
-Weight	9,881,240 B
-		9,649.65  KB
-		9.42      MB
-		0.01      GB
+Weight  9,881,240 B
+        9,649.65  KB
+        9.42      MB
+        0.01      GB

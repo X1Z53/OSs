@@ -1,0 +1,28 @@
+{From MS-DOS 6}
+*Mount 'Windows for Workgroups 3 (1).img'*
+a:setup
+[Enter]
+[C]
+[Enter] x2
+*Mount 'Windows for Workgroups 3 (2).img'*
+[Enter]
+*Type username*
+[Enter] x2
+[Space]
+[Down]
+[Space]
+[Down]
+[Space]
+[Enter]
+*Mount 'Windows for Workgroups 3 (3).img'*
+[Enter]
+*Mount 'Windows for Workgroups 3 (4).img'*
+[Enter]
+*Mount 'Windows for Workgroups 3 (5).img'*
+[Enter]
+*Mount 'Windows for Workgroups 3 (6).img'*
+[Enter] x4
+[Down]
+[Enter]
+*Unmount Floppy*
+[Enter]
